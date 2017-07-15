@@ -22,7 +22,7 @@
     this.imgW = this.birdImg.width / 3;      // 绘制图片的宽度
     this.imgH = this.birdImg.height;           // 绘制图片的高度
     this.frameIndex = 0;               // 记录小鸟绘制到哪一帧
-    this.a = 0.0005;                   // 加速度
+    this.a = 0.0004;                   // 加速度
     this.x = 100;                      // 小鸟的x坐标
     this.y = 100;                      // 小鸟的y坐标
     this.maxAngle = 45;                // 最大旋转角度
